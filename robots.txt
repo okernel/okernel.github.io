@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://okernel.github.io/sitemap.xml 
+Sitemap: http://www.liuair.me/sitemap.xml 

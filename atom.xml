@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[LiuAir's Codes]]></title>
-  <link href="http://okernel.github.io/atom.xml" rel="self"/>
-  <link href="http://okernel.github.io/"/>
-  <updated>2015-01-29T02:11:30+08:00</updated>
-  <id>http://okernel.github.io/</id>
+  <link href="http://www.liuair.me/atom.xml" rel="self"/>
+  <link href="http://www.liuair.me/"/>
+  <updated>2015-01-29T02:15:11+08:00</updated>
+  <id>http://www.liuair.me/</id>
   <author>
     <name><![CDATA[LiuAir]]></name>
     <email><![CDATA[okernelpro@me.com]]></email>
