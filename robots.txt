@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://okernel.github.io/sitemap.xml 
